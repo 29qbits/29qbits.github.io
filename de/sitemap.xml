@@ -3,293 +3,293 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.com/de/projects/photography/</loc>
+    <loc>https://29qbits.github.io/de/projects/photography/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://example.com/es/projects/photography/"
+                href="https://29qbits.github.io/es/projects/photography/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.com/en/projects/photography/"
+                href="https://29qbits.github.io/en/projects/photography/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://example.com/de/projects/photography/"
+                href="https://29qbits.github.io/de/projects/photography/"
                 />
   </url>
   
   <url>
-    <loc>http://example.com/de/projects/design/</loc>
+    <loc>https://29qbits.github.io/de/projects/design/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://example.com/es/projects/design/"
+                href="https://29qbits.github.io/es/projects/design/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.com/en/projects/design/"
+                href="https://29qbits.github.io/en/projects/design/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://example.com/de/projects/design/"
+                href="https://29qbits.github.io/de/projects/design/"
                 />
   </url>
   
   <url>
-    <loc>http://example.com/de/projects/writing/</loc>
+    <loc>https://29qbits.github.io/de/projects/writing/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://example.com/es/projects/writing/"
+                href="https://29qbits.github.io/es/projects/writing/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.com/en/projects/writing/"
+                href="https://29qbits.github.io/en/projects/writing/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://example.com/de/projects/writing/"
+                href="https://29qbits.github.io/de/projects/writing/"
                 />
   </url>
   
   <url>
-    <loc>http://example.com/de/projects/</loc>
+    <loc>https://29qbits.github.io/de/projects/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://example.com/es/projects/"
+                href="https://29qbits.github.io/es/projects/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.com/en/projects/"
+                href="https://29qbits.github.io/en/projects/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://example.com/de/projects/"
+                href="https://29qbits.github.io/de/projects/"
                 />
   </url>
   
   <url>
-    <loc>http://example.com/de/blog/</loc>
+    <loc>https://29qbits.github.io/de/blog/</loc>
     <lastmod>2017-11-13T11:58:39-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://example.com/es/blog/"
+                href="https://29qbits.github.io/es/blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.com/en/blog/"
+                href="https://29qbits.github.io/en/blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://example.com/de/blog/"
+                href="https://29qbits.github.io/de/blog/"
                 />
   </url>
   
   <url>
-    <loc>http://example.com/de/blog/hipster-ipsum/</loc>
+    <loc>https://29qbits.github.io/de/blog/hipster-ipsum/</loc>
     <lastmod>2017-11-13T11:58:39-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.com/en/blog/hipster-ipsum/"
+                href="https://29qbits.github.io/en/blog/hipster-ipsum/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://example.com/de/blog/hipster-ipsum/"
+                href="https://29qbits.github.io/de/blog/hipster-ipsum/"
                 />
   </url>
   
   <url>
-    <loc>http://example.com/de/tags/ipsum/</loc>
-    <lastmod>2017-11-13T11:58:39-05:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="http://example.com/es/tags/ipsum/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://example.com/en/tags/ipsum/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://example.com/de/tags/ipsum/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://example.com/de/tags/</loc>
+    <loc>https://29qbits.github.io/de/tags/ipsum/</loc>
     <lastmod>2017-11-13T11:58:39-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://example.com/es/tags/"
+                href="https://29qbits.github.io/es/tags/ipsum/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.com/en/tags/"
+                href="https://29qbits.github.io/en/tags/ipsum/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://example.com/de/tags/"
+                href="https://29qbits.github.io/de/tags/ipsum/"
                 />
   </url>
   
   <url>
-    <loc>http://example.com/de/</loc>
+    <loc>https://29qbits.github.io/de/tags/</loc>
     <lastmod>2017-11-13T11:58:39-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://example.com/es/"
+                href="https://29qbits.github.io/es/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.com/en/"
+                href="https://29qbits.github.io/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://example.com/de/"
+                href="https://29qbits.github.io/de/tags/"
                 />
   </url>
   
   <url>
-    <loc>http://example.com/de/tags/words/</loc>
+    <loc>https://29qbits.github.io/de/</loc>
     <lastmod>2017-11-13T11:58:39-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://example.com/es/tags/words/"
+                href="https://29qbits.github.io/es/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.com/en/tags/words/"
+                href="https://29qbits.github.io/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://example.com/de/tags/words/"
+                href="https://29qbits.github.io/de/"
                 />
   </url>
   
   <url>
-    <loc>http://example.com/de/tags/code/</loc>
+    <loc>https://29qbits.github.io/de/tags/words/</loc>
+    <lastmod>2017-11-13T11:58:39-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://29qbits.github.io/es/tags/words/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://29qbits.github.io/en/tags/words/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://29qbits.github.io/de/tags/words/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://29qbits.github.io/de/tags/code/</loc>
     <lastmod>2017-11-06T12:04:06-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://example.com/es/tags/code/"
+                href="https://29qbits.github.io/es/tags/code/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.com/en/tags/code/"
+                href="https://29qbits.github.io/en/tags/code/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://example.com/de/tags/code/"
+                href="https://29qbits.github.io/de/tags/code/"
                 />
   </url>
   
   <url>
-    <loc>http://example.com/de/blog/startup-ipsum/</loc>
+    <loc>https://29qbits.github.io/de/blog/startup-ipsum/</loc>
     <lastmod>2017-11-06T12:04:06-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://example.com/es/blog/startup-ipsum/"
+                href="https://29qbits.github.io/es/blog/startup-ipsum/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.com/en/blog/startup-ipsum/"
+                href="https://29qbits.github.io/en/blog/startup-ipsum/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://example.com/de/blog/startup-ipsum/"
+                href="https://29qbits.github.io/de/blog/startup-ipsum/"
                 />
   </url>
   
   <url>
-    <loc>http://example.com/de/tags/coffee/</loc>
+    <loc>https://29qbits.github.io/de/tags/coffee/</loc>
     <lastmod>2017-11-01T12:04:16-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://example.com/es/tags/coffee/"
+                href="https://29qbits.github.io/es/tags/coffee/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.com/en/tags/coffee/"
+                href="https://29qbits.github.io/en/tags/coffee/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://example.com/de/tags/coffee/"
+                href="https://29qbits.github.io/de/tags/coffee/"
                 />
   </url>
   
   <url>
-    <loc>http://example.com/de/tags/images/</loc>
+    <loc>https://29qbits.github.io/de/tags/images/</loc>
     <lastmod>2017-11-01T12:04:16-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://example.com/es/tags/images/"
+                href="https://29qbits.github.io/es/tags/images/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.com/en/tags/images/"
+                href="https://29qbits.github.io/en/tags/images/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://example.com/de/tags/images/"
+                href="https://29qbits.github.io/de/tags/images/"
                 />
   </url>
   
   <url>
-    <loc>http://example.com/de/blog/coffee-ipsum/</loc>
+    <loc>https://29qbits.github.io/de/blog/coffee-ipsum/</loc>
     <lastmod>2017-11-01T12:04:16-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://example.com/es/blog/coffee-ipsum/"
+                href="https://29qbits.github.io/es/blog/coffee-ipsum/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.com/en/blog/coffee-ipsum/"
+                href="https://29qbits.github.io/en/blog/coffee-ipsum/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://example.com/de/blog/coffee-ipsum/"
+                href="https://29qbits.github.io/de/blog/coffee-ipsum/"
                 />
   </url>
   
